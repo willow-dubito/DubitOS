@@ -1,0 +1,1 @@
+qemu-system-i386 -cdrom dos.iso -m 256M -hda floppy.img
